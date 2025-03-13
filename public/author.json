@@ -1,0 +1,77 @@
+{
+    "authors": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "bio": "John is a passionate football analyst with over 10 years of experience covering the Premier League and international tournaments.",
+        "profile_image": "https://example.com/images/authors/john_doe.jpg",
+        "social_links": {
+          "twitter": "https://twitter.com/johndoe",
+          "linkedin": "https://linkedin.com/in/johndoe"
+        },
+        "specialization": ["Football", "European Leagues"],
+        "total_articles": 50
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "bio": "Jane is a seasoned basketball journalist who provides in-depth coverage of the NBA and college basketball events.",
+        "profile_image": "https://example.com/images/authors/jane_smith.jpg",
+        "social_links": {
+          "twitter": "https://twitter.com/janesmith",
+          "linkedin": "https://linkedin.com/in/janesmith"
+        },
+        "specialization": ["Basketball", "NBA", "College Basketball"],
+        "total_articles": 65
+      },
+      {
+        "id": 3,
+        "name": "Mike Williams",
+        "bio": "Mike is a tennis enthusiast who has been reporting on Grand Slams and ATP tours for over a decade.",
+        "profile_image": "https://example.com/images/authors/mike_williams.jpg",
+        "social_links": {
+          "twitter": "https://twitter.com/mikewilliams",
+          "linkedin": "https://linkedin.com/in/mikewilliams"
+        },
+        "specialization": ["Tennis", "Grand Slams"],
+        "total_articles": 40
+      },
+      {
+        "id": 4,
+        "name": "Sarah Johnson",
+        "bio": "Sarah is a motorsports expert covering Formula 1 and MotoGP, with exclusive insights into racing strategies.",
+        "profile_image": "https://example.com/images/authors/sarah_johnson.jpg",
+        "social_links": {
+          "twitter": "https://twitter.com/sarahjohnson",
+          "linkedin": "https://linkedin.com/in/sarahjohnson"
+        },
+        "specialization": ["Motorsports", "Formula 1", "MotoGP"],
+        "total_articles": 55
+      },
+      {
+        "id": 5,
+        "name": "David Lee",
+        "bio": "David is a cricket specialist, analyzing T20 leagues, international test matches, and World Cup tournaments.",
+        "profile_image": "https://example.com/images/authors/david_lee.jpg",
+        "social_links": {
+          "twitter": "https://twitter.com/davidlee",
+          "linkedin": "https://linkedin.com/in/davidlee"
+        },
+        "specialization": ["Cricket", "T20 Leagues", "World Cup"],
+        "total_articles": 70
+      },
+      {
+        "id": 6,
+        "name": "Sophia Brown",
+        "bio": "Sophia is a sports journalist with expertise in player interviews and emerging sports trends.",
+        "profile_image": "https://example.com/images/authors/sophia_brown.jpg",
+        "social_links": {
+          "twitter": "https://twitter.com/sophiabrown",
+          "linkedin": "https://linkedin.com/in/sophiabrown"
+        },
+        "specialization": ["General Sports", "Player Analysis"],
+        "total_articles": 45
+      }
+    ]
+  }
+  
