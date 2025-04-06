@@ -4,7 +4,7 @@ const Profile = () => {
   return (
     <div className="w-[30%] mx-auto">
       <div className="sticky top-12">
-        <div className="bg-white shadow-xl rounded-lg py-6 px-4 border-gray-300 border-1">
+        <div className="bg-white shadow-xl rounded-xl py-6 px-4 border-gray-300 border-1">
           <div className="flex flex-col gap-4 justify-center items-center overflow-hidden">
             <div className="rounded-full overflow-hidden border-4 border-gray-300 w-[120px] h-[120px]">
               <img

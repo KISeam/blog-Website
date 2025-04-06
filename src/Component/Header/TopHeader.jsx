@@ -5,7 +5,7 @@ import { IoLogoMedium } from "react-icons/io5";
 
 const TopHeader = () => {
   return (
-    <div className="bg-gradient-to-r from-indigo-500  to-[#ec5c82] sticky top-0">
+    <div className="bg-gradient-to-r from-indigo-500  to-[#ec5c82]">
       <div className="w-10/12 mx-auto">
         <div className="flex justify-between items-center py-1">
           <div className="flex gap-4">
